@@ -9,7 +9,7 @@ Este proyecto tiene como objetivo **analizar cómo varía el salario en USD de l
 ## 👨‍💻 Colaboradores
 
 - [Mathias Damian Ortiz Sanabria](https://www.linkedin.com/in/mathiasortiz/)  
-- [Ezequiel Lopez](https://www.linkedin.com/in/ezequiel-lopez-cp/)  
+- [Lucas Lopez](https://www.linkedin.com/in/ezequiel-lopez-cp/)  
 
 ---
 
