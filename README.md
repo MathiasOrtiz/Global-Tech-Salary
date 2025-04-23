@@ -56,7 +56,7 @@ Aunque el enfoque principal es exploratorio, se realizó una predicción de sala
 - `GlobalTechSalary_CODE.ipynb` → análisis completo en Python
 - `GlobalTechSalary_VISUALIZATION.pdf` → presentación en Power BI
 - `GlobalTechSalary_VISUALIZATION.pbix` → archivo de Power BI
-- `License` → licencia del proyecto
+- `LICENSE` → licencia del proyecto
 - `README.md` → este archivo
 
 ---
