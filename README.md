@@ -18,7 +18,7 @@ Este proyecto tiene como objetivo **analizar cómo varía el salario en USD de l
 - **Python** (pandas, numpy, scikit-learn, tensorflow, xgboost)
 - **Power BI** (para la presentación del dashboard)
 - **Google Colab** (entrenamiento del modelo predictivo)
-- **Jupyter Notebook** (`Proyecto_GlobalSalary.ipynb`)
+- **Jupyter Notebook** (`GlobalTechSalary_CODE.ipynb`)
 
 ---
 
@@ -53,9 +53,10 @@ Aunque el enfoque principal es exploratorio, se realizó una predicción de sala
 
 ## 📁 Archivos del repositorio
 
-- `Proyecto_GlobalSalary.ipynb` → análisis completo en Python
-- `Prototipo.pdf` → presentación en Power BI
-- `dashboard_visual.png` → imagen del dashboard
+- `GlobalTechSalary_CODE.ipynb` → análisis completo en Python
+- `GlobalTechSalary_VISUALIZATION.pdf` → presentación en Power BI
+- `GlobalTechSalary_VISUALIZATION.pbix` → archivo de Power BI
+- `License` → licencia del proyecto
 - `README.md` → este archivo
 
 ---
